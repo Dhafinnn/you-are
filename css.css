@@ -1,0 +1,118 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+  color: #e9d384;
+}
+a {
+  color: #e2e1df;
+}
+
+h1 {
+  color: #e2e1df;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  color: #e2e1df;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #d7b330;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  border-style: none none dotted none;
+  border-width: 8px;
+  color: #d7b330;
+  width: 4%;
+  margin: 100px auto;
+}
+p {
+  line-height: 2;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+.home-section{
+  background-color: #d7b330;
+  position: relative;
+  padding-top: 100px;
+}
+.sekil-section h2{
+color: #d7b330;
+}
+
+.sekil-section {
+  margin-top: 40px;
+}
+.awan1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.awan2 {
+  left: 200px;
+  position: absolute;
+  bottom: 300px;
+}
+.isi-skill {
+  margin: 120px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.kode {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.data {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.footer {
+  margin-top: 80px;
+  padding: 30px;
+  background-color: #d7b330;
+}
+.footer-link {
+  margin: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+.copy-right {
+  padding: 20px 0;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
+.pengenalan {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+  background: #d7b330;
+  border-radius: 8px;
+  color: #fff;
+  font: 20px "Montserrat", sans-serif;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #e9d384;
+}
+
+.gambar {
+  width: 200px;
+  margin-top: 10px;
+}
